@@ -13,7 +13,7 @@ function App() {
                 <Book
                     author='Beena Ammanath'
                     link='https://itbook.store/books/9781119867920'
-                    image='https://itbook.store/img/books/9781119867920.png'
+                    image='/trustworthy-ai.png'
                 />
                 <Book
                     author='Daniel Vaughan'
